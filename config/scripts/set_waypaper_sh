@@ -1,5 +1,4 @@
 #!/bin/sh
 
-
-waypaper --random 
-
+image=$(find ~/Pictures/  | shuf -n 1)      
+         wal -i "$image" && waypaper --wallpaper "$image"   
