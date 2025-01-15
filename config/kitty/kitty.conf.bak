@@ -1,4 +1,4 @@
-# font_family      Mononoki Nerd Font
+# font_family      nerd-fonts-mononoki
 # bold_font        auto
 # italic_font      auto
 # bold_italic_font auto
@@ -14,7 +14,7 @@ include ~/.cache/wal/colors-kitty.conf
 
 
 # BEGIN_KITTY_FONTS
-font_family      family='Mononoki Nerd Font' postscript_name=MononokiNF-Regular
+font_family      family="Mononoki Nerd Font"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
